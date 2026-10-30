@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Read(./.mcp.json)",
+      "Read(./.claude/settings.local.json)",
+      "Read(./docs/deploy/**)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git tag *)",
+      "mcp__{{NOME_DO_SERVIDOR_PROIBIDO}}"
+    ]
+  }
+}

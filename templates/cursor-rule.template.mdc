@@ -1,0 +1,12 @@
+---
+description: {{Domínio}} — {{quando esta regra se aplica, em 1 frase}}
+globs: {{glob/um/**}},{{glob/dois/*.ts}}
+alwaysApply: false
+---
+
+# {{Domínio}}
+
+- {{Decisão curta e verificável 1.}}
+- {{Decisão curta 2.}}
+- {{Decisão curta 3.}}
+- Detalhes, porquês e armadilhas: leia `docs/context/{{dominio}}.md`.

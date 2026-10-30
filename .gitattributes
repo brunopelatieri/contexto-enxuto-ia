@@ -1,0 +1,5 @@
+# Scripts bash precisam de LF mesmo em clone no Windows (core.autocrlf=true quebra o bash)
+*.sh   text eol=lf
+*.md   text eol=lf
+*.mdc  text eol=lf
+*.json text eol=lf
